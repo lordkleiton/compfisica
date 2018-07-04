@@ -13,9 +13,10 @@ Calma, o código é bem simples de ser reutilizado e está 100% comentado, quase
 
 Aqui é demonstrado o uso de:
 
-RFID MFRC522 (num arduino mega!!! acredite ou não, isso é raro de se encontrar)
-LCD 16x2
-LED RGB
-Keypad 4x3
+ - RFID MFRC522 (num arduino mega!!! acredite ou não, isso é raro de se encontrar)
+ - LCD 16x2
+ - LED RGB
+ - Keypad 4x3
+ - Comunicação serial bidirecional entre arduino e processing
 
 Feito 100% por minha pessoa e moldado pelo meu sofrimento. Yorokobe, shounen.
